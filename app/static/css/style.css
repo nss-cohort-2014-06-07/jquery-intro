@@ -10,3 +10,21 @@
   font-size: 9px;
 }
 
+.box{
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  width: 75px;
+  border: 1px dashed red;
+}
+
+.even{
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+.odd{
+  background-color: blue;
+  border-radius: 25px;
+}
+
